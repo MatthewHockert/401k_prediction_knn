@@ -1,4 +1,4 @@
-# 401k_prediction_knn
+# 401k_prediction_knn_Sci-Kit Learn
 
 This is my first Github Project. This project was inspired from the Data School video series on SciKit-learn. From that ten-part series I recreate and later build off of what I learned using my own data on 401k participation.
 The goal of this project is to recreate what I learned from that video series. The steps of the project include three different methods used in the video series:
